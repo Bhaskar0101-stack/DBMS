@@ -63,8 +63,6 @@ The objective of this assignment is to understand and implement fundamental **SQ
 
 ---
 
-
-
 ---
 
 
