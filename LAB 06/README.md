@@ -119,13 +119,7 @@ After completing this lab, you will be able to:
 
 ---
 
-## 👨‍💻 Author
 
-**Alok Kumar**
-B.Tech CSE (2023–2027)
-DBMS Lab Work
-
----
 
 
 ✨ *If you found this helpful, don't forget to star the repository!*
