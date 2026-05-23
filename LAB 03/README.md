@@ -147,7 +147,6 @@ SELECT * FROM Enrollment;
 
 
 ---
----
 ## 🧪 Tools Used
 
 - Oracle Database (SQL*Plus / SQL Developer)
